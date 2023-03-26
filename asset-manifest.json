@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rate-app/static/css/main.907674e2.css",
-    "main.js": "/rate-app/static/js/main.260480d7.js",
+    "main.js": "/rate-app/static/js/main.1a0ef311.js",
     "index.html": "/rate-app/index.html",
     "main.907674e2.css.map": "/rate-app/static/css/main.907674e2.css.map",
-    "main.260480d7.js.map": "/rate-app/static/js/main.260480d7.js.map"
+    "main.1a0ef311.js.map": "/rate-app/static/js/main.1a0ef311.js.map"
   },
   "entrypoints": [
     "static/css/main.907674e2.css",
-    "static/js/main.260480d7.js"
+    "static/js/main.1a0ef311.js"
   ]
 }
